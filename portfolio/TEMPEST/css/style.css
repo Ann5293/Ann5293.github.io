@@ -126,7 +126,7 @@ p {
 	color:#fff;
 	font-weight:bolder;
 	line-height:25px;
-	font-family: 'open_sansregular';
+	/* font-family: 'open_sansregular'; */
 }
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
  font-family: 'helvetica_ce_55_romanregular';
